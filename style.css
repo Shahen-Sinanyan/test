@@ -6,6 +6,9 @@
 
 body {
     background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .done {
     text-decoration: line-through;

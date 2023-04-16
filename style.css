@@ -27,4 +27,5 @@ body {
     padding: 7px 40px;
     border: 1px solid wheat;
     border-radius: 4px;
+    max-width: 100px;
 }

@@ -19,4 +19,5 @@ body {
 .input {
     width: 25vw;
     background-color: azure;
+    border-radius: 5px;
 }
